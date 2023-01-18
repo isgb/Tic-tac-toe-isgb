@@ -1,0 +1,28 @@
+*{
+    box-sizing: content-box;
+}
+
+.fila-tabla{
+    height: 100vh;
+}
+
+
+.table{
+    width: 40%;
+    margin: 0 auto;
+    border-style: hidden hidden hidden;
+}
+
+tr {
+    height: 100px;
+}
+
+.casillas{
+    text-align: center;
+    height: 90px;
+    width: 100px;
+}
+
+.board .casillas p{
+    padding-top: 30px;
+}
